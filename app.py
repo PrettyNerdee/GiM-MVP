@@ -1,1 +1,0 @@
-# GiM Full App Code with all features integrated

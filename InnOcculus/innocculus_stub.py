@@ -1,0 +1,1 @@
+# Placeholder for simulated camera event logic
